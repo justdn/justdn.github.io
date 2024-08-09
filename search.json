@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html",
+    "href": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html",
+    "title": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖",
+    "section": "",
+    "text": "在 Python 项目开发中，依赖管理是一个重要但常常被忽视的环节。本文将介绍两个强大的工具：pipreqs 和 pip-compile， 它们可以帮助你更好地管理项目依赖。"
+  },
+  {
+    "objectID": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#pipreqs-自动生成-requirements.txt-文件",
+    "href": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#pipreqs-自动生成-requirements.txt-文件",
+    "title": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖",
+    "section": "pipreqs: 自动生成 requirements.txt 文件",
+    "text": "pipreqs: 自动生成 requirements.txt 文件\npipreqs 是一个非常实用的工具，它可以扫描你的项目代码，自动生成requirements.txt文件。\n\n安装\npip install pipreqs\n\n\n使用\n在项目根目录下运行:\npipreqs .\npipreqs 会分析你的代码，找出所有导入的包，然后生成一个 requirements.txt 文件。这比手动维护依赖列表要方便得多。"
+  },
+  {
+    "objectID": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#pip-compile-锁定依赖版本",
+    "href": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#pip-compile-锁定依赖版本",
+    "title": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖",
+    "section": "pip-compile: 锁定依赖版本",
+    "text": "pip-compile: 锁定依赖版本\npip-compile 是 pip-tools 中的一个命令，它可以帮助你生成和维护精确的依赖版本。\n\n安装\npip install pip-tools\n\n\n使用\n\n创建 requirements.in 文件， 只列出顶级依赖如下:\npydantic\ngraphviz\n运行 pip-compile:\npip-compile requirements.in --strip-extras\n\n这会生成一个 requirements.txt 文件，其中包含了所有依赖的精确版本。"
+  },
+  {
+    "objectID": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#结合使用-pipreqs-和-pip-compile",
+    "href": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#结合使用-pipreqs-和-pip-compile",
+    "title": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖",
+    "section": "结合使用 pipreqs 和 pip-compile",
+    "text": "结合使用 pipreqs 和 pip-compile\n\n使用 pipreqs 生成初始的 requirements.in 文件:\npipreqs . --savepath requirements.in\n编辑 requirements.in，根据需要调整依赖。\n使用 pip-compile 生成锁定版本的 requirements.txt:\npip-compile requirements.in --strip-extras\n使用生成的 requirements.txt 安装依赖:\npip install -r requirements.txt"
+  },
+  {
+    "objectID": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#总结",
+    "href": "posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html#总结",
+    "title": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖",
+    "section": "总结",
+    "text": "总结\n通过结合使用 pipreqs 和 pip-compile，你可以:\n\n自动检测项目依赖\n维护一个简洁的顶级依赖列表\n生成包含精确版本的完整依赖文件\n\n这种方法既方便又可靠，能够显著提高你的Python项目依赖管理效率。\n你想要我进一步解释这篇博客文章中的任何部分吗?"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#端到端价值交付",
+    "href": "posts/post-with-code/index.html#端到端价值交付",
+    "title": "Post With Code",
+    "section": "端到端价值交付",
+    "text": "端到端价值交付\n这是一张显示在酒店内电梯旁的楼层导览图，上面列出了酒店内的不同设施和公司。从图片可以看出，酗店提供多样化的服务和设施，如客房、律师事务所、不同类型的餐厅和KTV等。\n结合「端到端价值交付」的理论，我们可以从以下几个方面进行分析：\n\n顾客体验的连贯性：首先，电梯旁的导览图就是为了提升顾客体验设计的，让顾客能快速理解酒店内各种服务的位置。端到端价值交付强调在顾客获取产品或服务过程中的每一点上都提供价值，导览图就是在客户入住过程中的一个环节，帮助他们无缝导航。\n服务多样性：图中显示的酒店不仅提供住宿服务，还有律师事务所（第10层）、多个不同类型的餐厅（第2层和第5层）和KTV娱乐设施（第4层），说明酒店提供的不仅仅是单一的住宿体验，而是为满足不同顾客的多种需求进行的价值创造。\n便利性：导览图清楚地指示某些设施需要通过特定的电梯前往（如4层的KTV），这表明酒店在设计上考虑了顾客使用的便利性，与端到端交付的理念相契合，这个理念认为要简化顾客的行动路径，减少复杂度。\n信息明确性：图上的文本和标示清晰明了，直接告诉客户每一层有哪些设施。端到端价值交付中的一个关键组成部分是信息的透明度和及时传递，确保顾客可以轻易获取他们所需的信息。\n\n总的来说，这张导览图是酒店为了提供连贯、方便且多样化服务体验而提供的信息工具，这也正是端到端价值交付理论所强调的，即在价值链的每个环节上都为顾客提供价值和良好体验。"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#街头智慧",
+    "href": "posts/post-with-code/index.html#街头智慧",
+    "title": "Post With Code",
+    "section": "街头智慧",
+    "text": "街头智慧\n如果说这张图充满了「街头智慧」，我们可以将其理解为这张楼层导览图不仅仅是提供信息的工具，还反映了实用主义和对顾客行为有深刻理解的设计。\n所谓的「街头智慧」通常指的是在实践中获得的知识和技能，以及能够迅速适应变化，解决现实问题的能力。在这个例子中，这张导览图可能体现了以下几点「街头智慧」：\n\n直觉性：导览图很直观，人们一看就能明白。在街头生活中，直觉性是关键，因为人们需要迅速做出决策，而这张图正提供了这样的便利。\n实用性：这张图提供的是实实在在的帮助，显示了每一层具体的服务或设施，这对于生活在快节奏环境中、习惯了快速获取信息的人们来说尤其有用。\n适应性：这张图可能是基于对顾客行为的观察和了解而设计的，说明了酒店管理层能够适应顾客的真实需求，提供他们真正需要的。\n问题解决：街头智慧也是关于找到解决问题的直接方法。这张图通过简化信息和指示，帮助解决了顾客在酒店内导航的问题。\n\n在这个意义上，这张图不仅仅是简单的指示牌，它还体现了一种对客户需求的敏锐洞察、对效率的追求，以及在现实世界中解决问题的巧妙能力。"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#搜索",
+    "href": "posts/post-with-code/index.html#搜索",
+    "title": "Post With Code",
+    "section": "搜索",
+    "text": "搜索\nThis\n3cho"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#mind",
+    "href": "posts/post-with-code/index.html#mind",
+    "title": "Post With Code",
+    "section": "MIND",
+    "text": "MIND\nprint 111;"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#footnotes",
+    "href": "posts/post-with-code/index.html#footnotes",
+    "title": "Post With Code",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n好的↩︎\n试试zhege↩︎"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Just",
+    "section": "",
+    "text": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  }
+]
