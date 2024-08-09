@@ -42,6 +42,13 @@
     "text": "总结\n通过结合使用 pipreqs 和 pip-compile，你可以:\n\n自动检测项目依赖\n维护一个简洁的顶级依赖列表\n生成包含精确版本的完整依赖文件\n\n这种方法既方便又可靠，能够显著提高你的Python项目依赖管理效率。\n你想要我进一步解释这篇博客文章中的任何部分吗?"
   },
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -84,17 +91,24 @@
     "text": "Footnotes\n\n\n好的↩︎\n试试zhege↩︎"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/pdf-zh-fonts/index.html",
+    "href": "posts/pdf-zh-fonts/index.html",
+    "title": "pdf chinese fonts",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "PDF 中文排版常用字体"
+  },
+  {
+    "objectID": "posts/pdf-zh-fonts/index.html#test",
+    "href": "posts/pdf-zh-fonts/index.html#test",
+    "title": "pdf chinese fonts",
+    "section": "TEST",
+    "text": "TEST\n衬线（Serif）是指字体字符笔画末端的小装饰或突起，这些装饰通常呈现为短线或细小的横向或纵向笔画。\nSans Serif（无衬线字体）：\n\n黑体\n\nSerif（衬线字体）：\n\n宋体\n\n\nmacOS 下安装常用免费字体\nbrew tap homebrew/cask-fonts\n\n# LXGW WenKai / 霞鹜文楷\nbrew install font-lxgw-wenkai\n\n# Sarasa Gothic / 更纱黑体\nbrew install font-sarasa-gothic\n\n\n思源系列\n\nSource Han Sans\nSource Han Serif\n\n\n\nNoto\n\nNoto Sans CJK\nNoto Serif CJK"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Testing",
     "section": "",
-    "text": "使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "pdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]
