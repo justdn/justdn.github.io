@@ -102,7 +102,7 @@
     "href": "posts/pdf-zh-fonts/index.html#test",
     "title": "pdf chinese fonts",
     "section": "TEST",
-    "text": "TEST\n衬线（Serif）是指字体字符笔画末端的小装饰或突起，这些装饰通常呈现为短线或细小的横向或纵向笔画。\n字体名称中常见样式描述： - Sans Serif（无衬线字体），比如：黑体\n\nSerif（衬线字体），比如：宋体\nMonospace（等宽字体），比如：Courier New\nLigature（连字），比如：Fira Code\nNerd（极客），包含了大量图标，https://www.nerdfonts.com/\n\n\nmacOS 下安装常用免费字体\nbrew tap homebrew/cask-fonts\n\n# LXGW WenKai / 霞鹜文楷\nbrew install font-lxgw-wenkai\n\n# Sarasa Gothic / 更纱黑体\nbrew install font-sarasa-gothic\n\n\n思源系列\n\nSource Han Sans\nSource Han Serif\n\n\n\nNoto\n\nNoto Sans CJK\nNoto Serif CJK"
+    "text": "TEST\n衬线（Serif）是指字体字符笔画末端的小装饰或突起，这些装饰通常呈现为短线或细小的横向或纵向笔画。\n字体名称中常见样式描述：\n\nSans Serif（无衬线字体），比如：黑体\nSerif（衬线字体），比如：宋体\nMonospace（等宽字体），比如：Courier New\nLigature（连字），比如：Fira Code\nNerd（极客），包含了大量图标，https://www.nerdfonts.com/\n\n\nmacOS 下安装常用免费字体\nbrew tap homebrew/cask-fonts\n\n# LXGW WenKai / 霞鹜文楷\nbrew install font-lxgw-wenkai\n\n# Sarasa Gothic / 更纱黑体\nbrew install font-sarasa-gothic\n\n\n思源系列\n\nSource Han Sans | 思源黑体\nSource Han Serif | 思源宋体\n\n更多介绍：https://source.typekit.com/source-han-serif/cn/\n\n\nNoto\n\nNoto Sans CJK\nNoto Serif CJK\n\n更多介绍：https://fonts.google.com/noto/fonts\n\n\n扩展阅读\n\n思源系列字体中英名称对照表 https://feeshy.github.io/lists/source-han-fonts\n能与中文对齐的西文等宽字体 https://feeshy.github.io/lists/monospace-fonts-width"
   },
   {
     "objectID": "index.html",
