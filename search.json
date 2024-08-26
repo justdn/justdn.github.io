@@ -42,11 +42,102 @@
     "text": "总结\n通过结合使用 pipreqs 和 pip-compile，你可以:\n\n自动检测项目依赖\n维护一个简洁的顶级依赖列表\n生成包含精确版本的完整依赖文件\n\n这种方法既方便又可靠，能够显著提高你的Python项目依赖管理效率。\n你想要我进一步解释这篇博客文章中的任何部分吗?"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/pdf-zh-fonts/index.html",
+    "href": "posts/pdf-zh-fonts/index.html",
+    "title": "pdf chinese fonts",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "PDF 中文排版常用字体"
+  },
+  {
+    "objectID": "posts/pdf-zh-fonts/index.html#test",
+    "href": "posts/pdf-zh-fonts/index.html#test",
+    "title": "pdf chinese fonts",
+    "section": "TEST",
+    "text": "TEST\n衬线（Serif）是指字体字符笔画末端的小装饰或突起，这些装饰通常呈现为短线或细小的横向或纵向笔画。\n字体名称中常见样式描述：\n\nSans Serif（无衬线字体），比如：黑体\nSerif（衬线字体），比如：宋体\nMonospace（等宽字体），比如：Courier New\nLigature（连字），比如：Fira Code\nNerd（极客），包含了大量图标，https://www.nerdfonts.com/\n\n\nmacOS 下安装常用免费字体\nbrew tap homebrew/cask-fonts\n\n# LXGW WenKai / 霞鹜文楷\nbrew install font-lxgw-wenkai\n\n# Sarasa Gothic / 更纱黑体\nbrew install font-sarasa-gothic\n\n\n思源系列\n\nSource Han Sans | 思源黑体\nSource Han Serif | 思源宋体\n\n更多介绍：https://source.typekit.com/source-han-serif/cn/\n\n\nNoto\n\nNoto Sans CJK\nNoto Serif CJK\n\n更多介绍：https://fonts.google.com/noto/fonts\n\n\n扩展阅读\n\n思源系列字体中英名称对照表 https://feeshy.github.io/lists/source-han-fonts\n能与中文对齐的西文等宽字体 https://feeshy.github.io/lists/monospace-fonts-width"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html",
+    "href": "posts/choosing-programming-fonts/index.html",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "在编程的世界里，选择一款合适的字体不仅关乎美观，更关乎效率和舒适度。那么，面对众多的编程字体，我们应该如何做出选择呢？让我们一步步来探讨。\n\n\n首先，可读性是选择编程字体的首要考虑因素。字体应该清晰易读，特别是在长时间编码时。字符之间应有足够的间距，以避免混淆相似的字符。例如，数字“1”和字母“l”或“O”和“0”在某些字体中很容易混淆，选择时需要特别注意。\n\n\n\n等宽字体确保每个字符占用相同的水平空间，有助于代码对齐和格式化。这对于保持代码的整洁和可读性至关重要。例如，JetBrains Mono和Fira Code都是优秀的等宽编程字体。\n\n\n\n字符区分度是指容易区分相似的字符，如大写的”I”、小写的”l”和数字”1”，或者”0”和”O”。一个好的编程字体应该能够清晰地区分这些容易混淆的字符，避免编码时的错误。\n\n\n\n连字是一些现代编程字体的特性，可以将多个字符组合成一个符号，如 “==” 或 “-&gt;&gt;”。这种特性可以提高代码的可读性，但并不是所有人都喜欢或需要这种特性。如果你喜欢这种特性，可以选择支持连字的字体，如Fira Code。\n\n\n\n字体大小和缩放是指字体应在不同大小下都能保持清晰，适应不同的屏幕分辨率。一个好的编程字体应该在各种屏幕上都能保持良好的可读性，无论是大屏幕还是小屏幕。\n\n\n\n编程符号支持是指字体应包含常用的编程符号和特殊字符。编程中会使用很多符号，如花括号、括号、引号等，字体需要确保这些符号清晰且容易识别。例如，JetBrains Mono就包含了丰富的编程符号和特殊字符。\n\n\n\n斜体和粗体支持对于语法高亮和代码注释很有帮助。一个好的编程字体应该支持斜体和粗体，以便于区分不同的代码元素。\n\n\n\n跨平台一致性是指在不同操作系统上保持一致的外观和间距。如果你需要在多个平台上工作，选择跨平台支持的字体会很有帮助。例如，Fira Code和JetBrains Mono都提供了跨平台的支持。\n\n\n\n个人偏好是指最终选择一个你觉得舒适和美观的字体很重要。字体的风格应与你的个人喜好和工作环境匹配。一些开发者喜欢简约现代的字体，而另一些可能更喜欢经典的设计。\n\n\n\n开源和许可是指考虑字体的许可条款，特别是在商业环境中使用时。选择开源字体通常意味着免费且可以根据需要进行修改。例如，Fira Code就是一个开源的编程字体。\n\n\n\n选择一款适合的编程字体，可以显著提高代码编写的效率和舒适度。在选择时，我们需要综合考虑可读性、等宽字体、字符区分度、连字、字体大小和缩放、编程符号支持、斜体和粗体支持、跨平台一致性、个人偏好以及开源和许可等因素。希望这篇文章能帮助你找到最适合你的编程字体！"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#可读性",
+    "href": "posts/choosing-programming-fonts/index.html#可读性",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "首先，可读性是选择编程字体的首要考虑因素。字体应该清晰易读，特别是在长时间编码时。字符之间应有足够的间距，以避免混淆相似的字符。例如，数字“1”和字母“l”或“O”和“0”在某些字体中很容易混淆，选择时需要特别注意。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#等宽字体",
+    "href": "posts/choosing-programming-fonts/index.html#等宽字体",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "等宽字体确保每个字符占用相同的水平空间，有助于代码对齐和格式化。这对于保持代码的整洁和可读性至关重要。例如，JetBrains Mono和Fira Code都是优秀的等宽编程字体。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#字符区分度",
+    "href": "posts/choosing-programming-fonts/index.html#字符区分度",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "字符区分度是指容易区分相似的字符，如大写的”I”、小写的”l”和数字”1”，或者”0”和”O”。一个好的编程字体应该能够清晰地区分这些容易混淆的字符，避免编码时的错误。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#连字",
+    "href": "posts/choosing-programming-fonts/index.html#连字",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "连字是一些现代编程字体的特性，可以将多个字符组合成一个符号，如 “==” 或 “-&gt;&gt;”。这种特性可以提高代码的可读性，但并不是所有人都喜欢或需要这种特性。如果你喜欢这种特性，可以选择支持连字的字体，如Fira Code。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#字体大小和缩放",
+    "href": "posts/choosing-programming-fonts/index.html#字体大小和缩放",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "字体大小和缩放是指字体应在不同大小下都能保持清晰，适应不同的屏幕分辨率。一个好的编程字体应该在各种屏幕上都能保持良好的可读性，无论是大屏幕还是小屏幕。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#编程符号支持",
+    "href": "posts/choosing-programming-fonts/index.html#编程符号支持",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "编程符号支持是指字体应包含常用的编程符号和特殊字符。编程中会使用很多符号，如花括号、括号、引号等，字体需要确保这些符号清晰且容易识别。例如，JetBrains Mono就包含了丰富的编程符号和特殊字符。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#斜体和粗体支持",
+    "href": "posts/choosing-programming-fonts/index.html#斜体和粗体支持",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "斜体和粗体支持对于语法高亮和代码注释很有帮助。一个好的编程字体应该支持斜体和粗体，以便于区分不同的代码元素。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#跨平台一致性",
+    "href": "posts/choosing-programming-fonts/index.html#跨平台一致性",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "跨平台一致性是指在不同操作系统上保持一致的外观和间距。如果你需要在多个平台上工作，选择跨平台支持的字体会很有帮助。例如，Fira Code和JetBrains Mono都提供了跨平台的支持。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#个人偏好",
+    "href": "posts/choosing-programming-fonts/index.html#个人偏好",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "个人偏好是指最终选择一个你觉得舒适和美观的字体很重要。字体的风格应与你的个人喜好和工作环境匹配。一些开发者喜欢简约现代的字体，而另一些可能更喜欢经典的设计。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#开源和许可",
+    "href": "posts/choosing-programming-fonts/index.html#开源和许可",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "开源和许可是指考虑字体的许可条款，特别是在商业环境中使用时。选择开源字体通常意味着免费且可以根据需要进行修改。例如，Fira Code就是一个开源的编程字体。"
+  },
+  {
+    "objectID": "posts/choosing-programming-fonts/index.html#总结",
+    "href": "posts/choosing-programming-fonts/index.html#总结",
+    "title": "如何选择最适合你的编程字体？",
+    "section": "",
+    "text": "选择一款适合的编程字体，可以显著提高代码编写的效率和舒适度。在选择时，我们需要综合考虑可读性、等宽字体、字符区分度、连字、字体大小和缩放、编程符号支持、斜体和粗体支持、跨平台一致性、个人偏好以及开源和许可等因素。希望这篇文章能帮助你找到最适合你的编程字体！"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -91,24 +182,66 @@
     "text": "Footnotes\n\n\n好的↩︎\n试试zhege↩︎"
   },
   {
-    "objectID": "posts/pdf-zh-fonts/index.html",
-    "href": "posts/pdf-zh-fonts/index.html",
-    "title": "pdf chinese fonts",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "PDF 中文排版常用字体"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/pdf-zh-fonts/index.html#test",
-    "href": "posts/pdf-zh-fonts/index.html#test",
-    "title": "pdf chinese fonts",
-    "section": "TEST",
-    "text": "TEST\n衬线（Serif）是指字体字符笔画末端的小装饰或突起，这些装饰通常呈现为短线或细小的横向或纵向笔画。\n字体名称中常见样式描述：\n\nSans Serif（无衬线字体），比如：黑体\nSerif（衬线字体），比如：宋体\nMonospace（等宽字体），比如：Courier New\nLigature（连字），比如：Fira Code\nNerd（极客），包含了大量图标，https://www.nerdfonts.com/\n\n\nmacOS 下安装常用免费字体\nbrew tap homebrew/cask-fonts\n\n# LXGW WenKai / 霞鹜文楷\nbrew install font-lxgw-wenkai\n\n# Sarasa Gothic / 更纱黑体\nbrew install font-sarasa-gothic\n\n\n思源系列\n\nSource Han Sans | 思源黑体\nSource Han Serif | 思源宋体\n\n更多介绍：https://source.typekit.com/source-han-serif/cn/\n\n\nNoto\n\nNoto Sans CJK\nNoto Serif CJK\n\n更多介绍：https://fonts.google.com/noto/fonts\n\n\n扩展阅读\n\n思源系列字体中英名称对照表 https://feeshy.github.io/lists/source-han-fonts\n能与中文对齐的西文等宽字体 https://feeshy.github.io/lists/monospace-fonts-width"
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html",
+    "href": "posts/monospaced-font-alignment-ratios/index.html",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "在中英文混排的设计中，字符对齐是一个不容忽视的细节。不同的字体组合可能会产生不同的对齐效果。今天，我们就来深入探讨几种常见的中英文字符对齐比例及其对应的字体组合，帮助你在设计时做出更合适的选择。\n\n\n\n\n这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体的中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，三个拉丁文字符的宽度与两个中文字符的宽度相同。这种比例有时用于更宽的拉丁文字体。\n\n\n\n\n拉丁文字体：Roboto Mono\n中文字体：思源黑体\n\n\n\n\n在此比例下，最少需要3个拉丁文字符与2个中文字符对齐。例如：“ABC”（3个拉丁文字符）对齐 “中文”（2个中文字符）。\n\n\n\n\n\n\n这种比例下，拉丁文字符的宽度与中文字符相同。这种比例在等宽字体设计中较为常见，但在非等宽字体中较少使用。\n\n\n\n\n拉丁文字体：也叫 Duospaced font，不少符号（Symbols）字体，比如 Segoe UI Symbol\n中文字体：华文细黑\n\n\n\n\n在此比例下，最少需要1个拉丁文字符与1个中文字符对齐。例如：“A”（1个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，五个拉丁文字符的宽度与四个中文字符的宽度相同，适用于更宽的中文字体。\n\n\n\n\n拉丁文字体：Menlo\n中文字体：PingFang SC\n\n\n\n\n在此比例下，最少需要5个拉丁文字符与4个中文字符对齐。例如：“ABCDE”（5个拉丁文字符）对齐 “中文中文”（4个中文字符）。\n\n\n\n\n\n\n这种比例下，四个拉丁文字符的宽度与三个中文字符的宽度相同，常用于某些现代字体组合。\n\n\n\n\n拉丁文字体：Fira Code\n中文字体：思源宋体\n\n\n\n\n在此比例下，最少需要4个拉丁文字符与3个中文字符对齐。例如：“ABCD”（4个拉丁文字符）对齐 “中文中”（3个中文字符）。\n\n\n\n\n\n50% 比例（1:2）：拉丁文字符宽度 = 中文字符宽度的50%\n66.7% 比例（2:3）：拉丁文字符宽度 = 中文字符宽度的66.7%\n100% 比例（1:1）：拉丁文字符宽度 = 中文字符宽度的100%\n80% 比例（4:5）：拉丁文字符宽度 = 中文字符宽度的80%\n75% 比例（3:4）：拉丁文字符宽度 = 中文字符宽度的75%\n\n每个比例的对齐情况都基于拉丁文字符和中文字符的宽度比。因此，为确保中英文混排时的完美对齐，需要选择合适的拉丁文字体和中文字体组合，并进行实际测试。希望这些信息能帮助你在设计时做出更明智的选择！"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例12",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#比例12",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体的中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例23",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#比例23",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "这种比例下，三个拉丁文字符的宽度与两个中文字符的宽度相同。这种比例有时用于更宽的拉丁文字体。\n\n\n\n\n拉丁文字体：Roboto Mono\n中文字体：思源黑体\n\n\n\n\n在此比例下，最少需要3个拉丁文字符与2个中文字符对齐。例如：“ABC”（3个拉丁文字符）对齐 “中文”（2个中文字符）。"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例11",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#比例11",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "这种比例下，拉丁文字符的宽度与中文字符相同。这种比例在等宽字体设计中较为常见，但在非等宽字体中较少使用。\n\n\n\n\n拉丁文字体：也叫 Duospaced font，不少符号（Symbols）字体，比如 Segoe UI Symbol\n中文字体：华文细黑\n\n\n\n\n在此比例下，最少需要1个拉丁文字符与1个中文字符对齐。例如：“A”（1个拉丁文字符）对齐 “中”（1个中文字符）。"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例45",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#比例45",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "这种比例下，五个拉丁文字符的宽度与四个中文字符的宽度相同，适用于更宽的中文字体。\n\n\n\n\n拉丁文字体：Menlo\n中文字体：PingFang SC\n\n\n\n\n在此比例下，最少需要5个拉丁文字符与4个中文字符对齐。例如：“ABCDE”（5个拉丁文字符）对齐 “中文中文”（4个中文字符）。"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例34",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#比例34",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "这种比例下，四个拉丁文字符的宽度与三个中文字符的宽度相同，常用于某些现代字体组合。\n\n\n\n\n拉丁文字体：Fira Code\n中文字体：思源宋体\n\n\n\n\n在此比例下，最少需要4个拉丁文字符与3个中文字符对齐。例如：“ABCD”（4个拉丁文字符）对齐 “中文中”（3个中文字符）。"
+  },
+  {
+    "objectID": "posts/monospaced-font-alignment-ratios/index.html#计算说明",
+    "href": "posts/monospaced-font-alignment-ratios/index.html#计算说明",
+    "title": "中英文字符对齐：常见比例与字体组合",
+    "section": "",
+    "text": "50% 比例（1:2）：拉丁文字符宽度 = 中文字符宽度的50%\n66.7% 比例（2:3）：拉丁文字符宽度 = 中文字符宽度的66.7%\n100% 比例（1:1）：拉丁文字符宽度 = 中文字符宽度的100%\n80% 比例（4:5）：拉丁文字符宽度 = 中文字符宽度的80%\n75% 比例（3:4）：拉丁文字符宽度 = 中文字符宽度的75%\n\n每个比例的对齐情况都基于拉丁文字符和中文字符的宽度比。因此，为确保中英文混排时的完美对齐，需要选择合适的拉丁文字体和中文字体组合，并进行实际测试。希望这些信息能帮助你在设计时做出更明智的选择！"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Testing",
     "section": "",
-    "text": "pdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "如何选择最适合你的编程字体？\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n中英文字符对齐：常见比例与字体组合\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]

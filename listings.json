@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/choosing-programming-fonts/index.html",
+      "/posts/monospaced-font-alignment-ratios/index.html",
       "/posts/pdf-zh-fonts/index.html",
       "/posts/efficient-python-dependency-management-pipreqs-pip-compile/index.html",
       "/posts/welcome/index.html",
