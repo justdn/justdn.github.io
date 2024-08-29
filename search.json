@@ -184,9 +184,9 @@
   {
     "objectID": "posts/font-terminology-guide/index.html",
     "href": "posts/font-terminology-guide/index.html",
-    "title": "JDN",
+    "title": "字体名称中经常出现的术语",
     "section": "",
-    "text": "字体名称中经常出现的术语整理：\n这些术语可以根据字体的属性和用途进行分类。以下是一个分类的方式：\n\n1. 字形特性（Style）\n\nSans (Sans Serif): 无衬线字体\nSerif: 衬线字体\nSlab (Slab Serif): 粗衬线字体\nScript: 手写体\nDisplay: 显示字体\n\n\n\n2. 字重与宽度（Weight and Width）\n\nBold: 粗体字\nLight: 细体字\nExtra (如 Extra Bold, Extra Light): 极端字重（比 Bold 更粗或比 Light 更细）\nBlack: 超粗字体\nMedium: 中等粗细\nCondensed: 压缩字体（窄版）\nHW (Half-width): 半宽字体\n\n\n\n3. 斜体与倾斜（Italicization and Slanting）\n\nItalic: 斜体字体\nOblique: 倾斜字体\n\n\n\n4. 字符间距与风格（Spacing and Style Enhancements）\n\nMono (Monospaced): 等宽字体\nRounded: 圆角字体\n\n\n\n5. 扩展功能与增强（Enhanced Features and Extensions）\n\nPro: 专业版字体（扩展字符集和功能）\nNerd (Nerd Fonts): 增强的 Nerd 字体\n\n\n\n6. 常规风格（Regular/Normal Style）\n\nRegular/Normal: 常规字体\n\n这种分类方式能够帮助更好地理解和选择适合特定场景的字体。"
+    "text": "字体名称中经常出现的术语整理：\n\n1. 字形特性（Style）\n\nSans (Sans Serif): 无衬线字体\nSerif: 衬线字体\nSlab (Slab Serif): 粗衬线字体\nScript: 手写体\nDisplay: 显示字体\n\n\n\n2. 字重与宽度（Weight and Width）\n\nBold: 粗体字\nLight: 细体字\nExtra (如 Extra Bold, Extra Light): 极端字重（比 Bold 更粗或比 Light 更细）\nBlack: 超粗字体\nMedium: 中等粗细\nCondensed: 压缩字体（窄版）\nHW (Half-width): 半宽字体\n\n\n\n3. 斜体与倾斜（Italicization and Slanting）\n\nItalic: 斜体字体\nOblique: 倾斜字体\n\n\n\n4. 字符间距与风格（Spacing and Style Enhancements）\n\nMono (Monospaced): 等宽字体\nRounded: 圆角字体\n\n\n\n5. 扩展功能与增强（Enhanced Features and Extensions）\n\nPro: 专业版字体（扩展字符集和功能）\nNerd (Nerd Fonts): 增强的 Nerd 字体\n\n\n\n6. 常规风格（Regular/Normal Style）\n\nRegular/Normal: 常规字体"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -249,6 +249,6 @@
     "href": "index.html",
     "title": "Quarto Testing",
     "section": "",
-    "text": "1. 字形特性（Style）\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n如何选择最适合你的编程字体？\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n中英文字符对齐：常见比例与字体组合\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\npdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "字体名称中经常出现的术语\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nCondorHero\n\n\n\n\n\n\n\n\n\n\n\n\n如何选择最适合你的编程字体？\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n中英文字符对齐：常见比例与字体组合\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\npdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]
