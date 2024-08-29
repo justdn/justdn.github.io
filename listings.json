@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/font-terminology-guide/index.html",
       "/posts/choosing-programming-fonts/index.html",
       "/posts/monospaced-font-alignment-ratios/index.html",
       "/posts/pdf-zh-fonts/index.html",

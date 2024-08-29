@@ -182,6 +182,13 @@
     "text": "Footnotes\n\n\n好的↩︎\n试试zhege↩︎"
   },
   {
+    "objectID": "posts/font-terminology-guide/index.html",
+    "href": "posts/font-terminology-guide/index.html",
+    "title": "JDN",
+    "section": "",
+    "text": "字体名称中经常出现的术语整理：\n这些术语可以根据字体的属性和用途进行分类。以下是一个分类的方式：\n\n1. 字形特性（Style）\n\nSans (Sans Serif): 无衬线字体\nSerif: 衬线字体\nSlab (Slab Serif): 粗衬线字体\nScript: 手写体\nDisplay: 显示字体\n\n\n\n2. 字重与宽度（Weight and Width）\n\nBold: 粗体字\nLight: 细体字\nExtra (如 Extra Bold, Extra Light): 极端字重（比 Bold 更粗或比 Light 更细）\nBlack: 超粗字体\nMedium: 中等粗细\nCondensed: 压缩字体（窄版）\nHW (Half-width): 半宽字体\n\n\n\n3. 斜体与倾斜（Italicization and Slanting）\n\nItalic: 斜体字体\nOblique: 倾斜字体\n\n\n\n4. 字符间距与风格（Spacing and Style Enhancements）\n\nMono (Monospaced): 等宽字体\nRounded: 圆角字体\n\n\n\n5. 扩展功能与增强（Enhanced Features and Extensions）\n\nPro: 专业版字体（扩展字符集和功能）\nNerd (Nerd Fonts): 增强的 Nerd 字体\n\n\n\n6. 常规风格（Regular/Normal Style）\n\nRegular/Normal: 常规字体\n\n这种分类方式能够帮助更好地理解和选择适合特定场景的字体。"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -193,14 +200,14 @@
     "href": "posts/monospaced-font-alignment-ratios/index.html",
     "title": "中英文字符对齐：常见比例与字体组合",
     "section": "",
-    "text": "在中英文混排的设计中，字符对齐是一个不容忽视的细节。不同的字体组合可能会产生不同的对齐效果。今天，我们就来深入探讨几种常见的中英文字符对齐比例及其对应的字体组合，帮助你在设计时做出更合适的选择。\n\n\n\n\n这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体的中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，三个拉丁文字符的宽度与两个中文字符的宽度相同。这种比例有时用于更宽的拉丁文字体。\n\n\n\n\n拉丁文字体：Roboto Mono\n中文字体：思源黑体\n\n\n\n\n在此比例下，最少需要3个拉丁文字符与2个中文字符对齐。例如：“ABC”（3个拉丁文字符）对齐 “中文”（2个中文字符）。\n\n\n\n\n\n\n这种比例下，拉丁文字符的宽度与中文字符相同。这种比例在等宽字体设计中较为常见，但在非等宽字体中较少使用。\n\n\n\n\n拉丁文字体：也叫 Duospaced font，不少符号（Symbols）字体，比如 Segoe UI Symbol\n中文字体：华文细黑\n\n\n\n\n在此比例下，最少需要1个拉丁文字符与1个中文字符对齐。例如：“A”（1个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，五个拉丁文字符的宽度与四个中文字符的宽度相同，适用于更宽的中文字体。\n\n\n\n\n拉丁文字体：Menlo\n中文字体：PingFang SC\n\n\n\n\n在此比例下，最少需要5个拉丁文字符与4个中文字符对齐。例如：“ABCDE”（5个拉丁文字符）对齐 “中文中文”（4个中文字符）。\n\n\n\n\n\n\n这种比例下，四个拉丁文字符的宽度与三个中文字符的宽度相同，常用于某些现代字体组合。\n\n\n\n\n拉丁文字体：Fira Code\n中文字体：思源宋体\n\n\n\n\n在此比例下，最少需要4个拉丁文字符与3个中文字符对齐。例如：“ABCD”（4个拉丁文字符）对齐 “中文中”（3个中文字符）。\n\n\n\n\n\n50% 比例（1:2）：拉丁文字符宽度 = 中文字符宽度的50%\n66.7% 比例（2:3）：拉丁文字符宽度 = 中文字符宽度的66.7%\n100% 比例（1:1）：拉丁文字符宽度 = 中文字符宽度的100%\n80% 比例（4:5）：拉丁文字符宽度 = 中文字符宽度的80%\n75% 比例（3:4）：拉丁文字符宽度 = 中文字符宽度的75%\n\n每个比例的对齐情况都基于拉丁文字符和中文字符的宽度比。因此，为确保中英文混排时的完美对齐，需要选择合适的拉丁文字体和中文字体组合，并进行实际测试。希望这些信息能帮助你在设计时做出更明智的选择！"
+    "text": "在中英文混排的设计中，字符对齐是一个不容忽视的细节。不同的字体组合可能会产生不同的对齐效果。今天，我们就来深入探讨几种常见的中英文字符对齐比例及其对应的字体组合，帮助你在设计时做出更合适的选择。\n\n\n\n\n这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，三个拉丁文字符的宽度与两个中文字符的宽度相同。这种比例有时用于更宽的拉丁文字体。\n\n\n\n\n拉丁文字体：Roboto Mono\n中文字体：思源黑体\n\n\n\n\n在此比例下，最少需要3个拉丁文字符与2个中文字符对齐。例如：“ABC”（3个拉丁文字符）对齐 “中文”（2个中文字符）。\n\n\n\n\n\n\n这种比例下，拉丁文字符的宽度与中文字符相同。这种比例在等宽字体设计中较为常见，但在非等宽字体中较少使用。\n\n\n\n\n拉丁文字体：也叫 Duospaced font，不少符号（Symbols）字体，比如 Segoe UI Symbol\n中文字体：华文细黑\n\n\n\n\n在此比例下，最少需要1个拉丁文字符与1个中文字符对齐。例如：“A”（1个拉丁文字符）对齐 “中”（1个中文字符）。\n\n\n\n\n\n\n这种比例下，五个拉丁文字符的宽度与四个中文字符的宽度相同，适用于更宽的中文字体。\n\n\n\n\n拉丁文字体：Menlo\n中文字体：PingFang SC\n\n\n\n\n在此比例下，最少需要5个拉丁文字符与4个中文字符对齐。例如：“ABCDE”（5个拉丁文字符）对齐 “中文中文”（4个中文字符）。\n\n\n\n\n\n\n这种比例下，四个拉丁文字符的宽度与三个中文字符的宽度相同，常用于某些现代字体组合。\n\n\n\n\n拉丁文字体：Fira Code\n中文字体：思源宋体\n\n\n\n\n在此比例下，最少需要4个拉丁文字符与3个中文字符对齐。例如：“ABCD”（4个拉丁文字符）对齐 “中文中”（3个中文字符）。\n\n\n\n\n\n50% 比例（1:2）：拉丁文字符宽度 = 中文字符宽度的50%\n66.7% 比例（2:3）：拉丁文字符宽度 = 中文字符宽度的66.7%\n100% 比例（1:1）：拉丁文字符宽度 = 中文字符宽度的100%\n80% 比例（4:5）：拉丁文字符宽度 = 中文字符宽度的80%\n75% 比例（3:4）：拉丁文字符宽度 = 中文字符宽度的75%\n\n每个比例的对齐情况都基于拉丁文字符和中文字符的宽度比。因此，为确保中英文混排时的完美对齐，需要选择合适的拉丁文字体和中文字体组合，并进行实际测试。希望这些信息能帮助你在设计时做出更明智的选择！"
   },
   {
     "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例12",
     "href": "posts/monospaced-font-alignment-ratios/index.html#比例12",
     "title": "中英文字符对齐：常见比例与字体组合",
     "section": "",
-    "text": "这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体的中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。"
+    "text": "这种比例下，两个拉丁文字符的宽度与一个中文字符的宽度相同，常用于等宽字体中英文对齐。\n\n\n\n\n拉丁文字体：Courier New\n中文字体：微软雅黑\n\n\n\n\n在此比例下，最少需要2个拉丁文字符与1个中文字符对齐。例如：“AB”（2个拉丁文字符）对齐 “中”（1个中文字符）。"
   },
   {
     "objectID": "posts/monospaced-font-alignment-ratios/index.html#比例23",
@@ -242,6 +249,6 @@
     "href": "index.html",
     "title": "Quarto Testing",
     "section": "",
-    "text": "如何选择最适合你的编程字体？\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n中英文字符对齐：常见比例与字体组合\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "1. 字形特性（Style）\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n如何选择最适合你的编程字体？\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n中英文字符对齐：常见比例与字体组合\n\n\n\n\n\n\nfonts\n\n\n\n\n\n\n\n\n\nAug 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\npdf chinese fonts\n\n\n\n\n\n\nfonts\n\n\npdf\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\n使用 pipreqs 和 pip-compile 管理 Python 项目依赖\n\n\n\n\n\n\npython\n\n\ncode\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nClaude\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 9, 2017\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]
